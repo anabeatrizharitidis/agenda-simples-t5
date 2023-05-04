@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda simples t5", "agenda simples t5\agenda simples t5.csproj", "{43B68B12-319B-458F-ACB0-68964B660B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B68B12-319B-458F-ACB0-68964B660B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B68B12-319B-458F-ACB0-68964B660B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B68B12-319B-458F-ACB0-68964B660B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B68B12-319B-458F-ACB0-68964B660B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59544520-9E07-491A-983B-36C05C264659}
+	EndGlobalSection
+EndGlobal
